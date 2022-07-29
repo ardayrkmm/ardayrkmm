@@ -2,7 +2,7 @@
 #### I'm Front End Developer
 I'm a FrontEnd Developer passionate about making contributions to open source more approachable, creating technology masterpieces for people to see and like. Some of the technologies I like include ReactJS, Laravel, Php, and Mysql.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / SCSS
+Skills: NEXT JS/ REACT / JS / HTML / CSS / SCSS
 
 
 
