@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is arda
-#### I'm Front End Developer
-I'm a FrontEnd Developer passionate about making contributions to open source more approachable, creating technology masterpieces for people to see and like. Some of the technologies I like include ReactJS, Laravel, Php, and Mysql.
+#### I'm Futter Developer
+I'm a Flutter Developer passionate about making contributions to open source more approachable, creating technology masterpieces for people to see and like. Some of the technologies I like include ReactJS, Flutter, Laravel, Firebase,Php, and Mysql.
 
-Skills: NEXT JS/ REACT / JS / HTML / CSS / SCSS
+Skills: NEXT JS/ REACT / JS / HTML / CSS / SCSS / FLUTTER / FIREBASE 
 
 
 
