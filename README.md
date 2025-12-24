@@ -27,8 +27,3 @@ A professional Software Engineer specializing in full-stack development, leverag
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ardayudrik/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/btr.ardyrkm/)
 
----
-
-<p align="center">
-  <img src="https://github.com/ardayrkmm.png" alt="Profile views">
-</p>
