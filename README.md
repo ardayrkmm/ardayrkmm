@@ -21,15 +21,7 @@ A professional Software Engineer specializing in full-stack development, leverag
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 | **Other** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) |
 | **State & API** | Redux, REST API, Bloc, Axios, GetX |
-
----
-
-### 📊 GitHub Stats
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardayrkmm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardayrkmm&layout=compact&theme=radical)
-
----
-
+ 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ardayrkmm)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ardayudrik/)
@@ -38,5 +30,5 @@ A professional Software Engineer specializing in full-stack development, leverag
 ---
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/ardayrkmm" alt="Profile views">
+  <img src="https://github.com/ardayrkmm.png" alt="Profile views">
 </p>
